@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Kishore 👋</h1>
 
-<h3 align="center">Frontend Developer & DevOps Engineer</h3>
+<h3 align="center">Software Developer & DevOps Engineer</h3>
 
 
 
